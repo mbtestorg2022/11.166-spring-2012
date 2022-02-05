@@ -4,33 +4,262 @@ title: Calendar
 uid: 66c05e9d-59bb-1e63-d977-e3095bccb61b
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part I: Theoretical Framework**{{< /td-colspan >}} ||
-| 1 | Introduction: A General Introduction to the Course, the Main Substantive Themes and the Requirements |
-| 2 | Social Movements, NGOs and Civil Society: How are They Different? |
-| 3 | Social Movements and the State: How Do They Interact? |
-| 4 | Law, Social Movements and Public Policy: Changing Domestic Contexts |
-| 5 | Law, Social Movements and Public Policy: Changing Global Contexts |
-| {{< td-colspan 2 >}}**Part II: Domestic and Comparative Experience  {{< br >}}**{{< /td-colspan >}} ||
-| 6 | Legal and Social Change in the US: Contesting Perspectives |
-| 7 | Environment as an Arena of Struggle |
-| 8 | Law and American Labor Movement |
-| 9 | Feminism and Women's Movements |
-| 10 | Race, Poverty and the Struggle for Social Justice |
-| 11 | The Conservative Movement, Policy Change and Law |
-| 12 | Preparation for Field-component on Occupy Wall Street |
-| 13 | Field Work Report Back |
-| 14 | Legal and Social Change in India: The Role of Mobilization and Activism |
-| 15 | Women's Rights v. Gender Justice |
-| 16 | Caste and the Struggle with/through Law |
-| 17 | Contesting Development: Law and Struggle in the Narmada Valley |
-| 18 | Human Rights, Social Movements and Public Interest Litigation |
-| {{< td-colspan 2 >}}**Part III: Law and Global Public Policy from Below**{{< /td-colspan >}} ||
-| 19 | Beyond the State? Changing Contexts for Law-making and Application at the Global Level |
-| 20 | The World Commission on Dams and the Struggle over Development |
-| 21 | Setting Global Environmental and Health Policy: The Case of Nuclear Weapons |
-| 22 | Global Economic Institutions and Resistance from the Margins |
-| 23 | The World Trade Organization as a Policy Machine |
-| 24 | Human Rights Law as Global Public Policy |
-| 25 | Conclusion and Review Class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part I: Theoretical Framework**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: A General Introduction to the Course, the Main Substantive Themes and the Requirements
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Social Movements, NGOs and Civil Society: How are They Different?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Social Movements and the State: How Do They Interact?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Law, Social Movements and Public Policy: Changing Domestic Contexts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Law, Social Movements and Public Policy: Changing Global Contexts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part II: Domestic and Comparative Experience  
+**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Legal and Social Change in the US: Contesting Perspectives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Environment as an Arena of Struggle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Law and American Labor Movement
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Feminism and Women's Movements
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Race, Poverty and the Struggle for Social Justice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Conservative Movement, Policy Change and Law
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Preparation for Field-component on Occupy Wall Street
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Field Work Report Back
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Legal and Social Change in India: The Role of Mobilization and Activism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Women's Rights v. Gender Justice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Caste and the Struggle with/through Law
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Contesting Development: Law and Struggle in the Narmada Valley
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Human Rights, Social Movements and Public Interest Litigation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part III: Law and Global Public Policy from Below**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Beyond the State? Changing Contexts for Law-making and Application at the Global Level
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The World Commission on Dams and the Struggle over Development
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Setting Global Environmental and Health Policy: The Case of Nuclear Weapons
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Global Economic Institutions and Resistance from the Margins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The World Trade Organization as a Policy Machine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Human Rights Law as Global Public Policy
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion and Review Class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

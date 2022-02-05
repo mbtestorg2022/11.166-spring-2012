@@ -34,21 +34,95 @@ Attendance is required in all classes and absences without prior notification to
 
 ### Undergraduates
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 2 short papers | 50% |
-| Field based class project | 30% |
-| Class participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 short papers
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Field based class project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Graduate Students
 
 Graduate students who take this course need to write a final paper on a research topic that they identify in consultation with the instructor. This topic should relate to a social movement and its relationship to law and legal institutions in a country (India and US can be chosen but need to focus on a movement not covered in class), or at the global level, and must be based on independent research. Late submissions will result in a fail grade.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Final paper | 50% |
-| Field based class project | 30% |
-| Class participation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Field based class project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Books
 --------------
