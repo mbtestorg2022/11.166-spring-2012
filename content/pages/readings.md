@@ -220,7 +220,7 @@ Voss, Kim. "The Collapse of a Social Movement: The Interplay of Mobilizing Struc
 
 Ansley, Fran. "Local Contact Points, Global Divides: Labor Rights and Immigrant Rights as Sites for Cosmopolitan Legality." In _Law and Globalization from Below: Towards a Cosmopolitan Legality_. Edited by Boaventura de Sousa Santos, and Cesar Rodriguez-Garavito. Cambridge University Press, 2005. ISBN: 9780521607353. \[Preview with [Google Books](http://books.google.com/books?id=KXXirMSkTXIC&pg=PA158#v=onepage)\]
 
-Gordon, Jennifer. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Law, Lawyers and Labor: The United Farmworkers Legal Strategy in the 1960s and 70s and the Role of Law in Union Organizing Today." (PDF - 4.7MB)](https://www.law.upenn.edu/journals/jbl/articles/volume8/issue1/Gordon8U.Pa.J.Lab.&Emp.L.1%282005%29.pdf). _U. PA. Journal of Labor and Employment Law_ 8, no. 1 (2006).
+Gordon, Jennifer. "[Law, Lawyers and Labor: The United Farmworkers Legal Strategy in the 1960s and 70s and the Role of Law in Union Organizing Today." (PDF - 4.7MB)](https://www.law.upenn.edu/journals/jbl/articles/volume8/issue1/Gordon8U.Pa.J.Lab.&Emp.L.1%282005%29.pdf). _U. PA. Journal of Labor and Employment Law_ 8, no. 1 (2006).
 
 ### Recommended
 
@@ -476,7 +476,7 @@ Report of the World Commission on Dams, released in November 2000, especially ch
 
 Dubash, Navroz K. "[A Watershed in Global Governance? An Independent Assessment of the World Commission on Dams](http://www.jstor.org/stable/4236659)." _Politics and the Life Sciences_ 21, no. 1 (2001). Chapters 1–2, and 7–9. Available at [http://www.wri.org/publication/a-watershed-in-global-governance](http://www.wri.org/publication/a-watershed-in-global-governance)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Official World Bank position on the Report of the World Commission on Dams. (PDF)](http://siteresources.worldbank.org/INTWRD/903857-1112344791813/20424179/TheWBPositionontheReportoftheWCD.pdf)
+[Official World Bank position on the Report of the World Commission on Dams. (PDF)](http://siteresources.worldbank.org/INTWRD/903857-1112344791813/20424179/TheWBPositionontheReportoftheWCD.pdf)
 
 Bradlow, Daniel. "[The World Commission on Dams's Contribution to the Broader Debate on Development Decision-making](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=294410)." _American University International Law Review_ 16, no. 1531 (2001). Available through Lexis-Nexis.
 
@@ -498,7 +498,7 @@ Legality Of The Threat Or Use Of Nuclear Weapons, Advisory Opinion of 8 July 199
 
 Falk, Richard. "The Nuclear Weapons Advisory Opinion and the New Jurisprudence of Global Civil Society." In _Law in an Emerging Global Village_. Transnational Pub, 1998, pp. 165–88. ISBN: 9781571050663.
 
-Norris, Robert, and Hans Kristensen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["U.S. Nuclear Threats: Then and Now." (PDF)](http://journals.sagepub.com/doi/pdf/10.2968/062005016) _Bulletin of the Atomic Scientists_ 62, no. 5 (2006): 69–71.
+Norris, Robert, and Hans Kristensen. ["U.S. Nuclear Threats: Then and Now." (PDF)](http://journals.sagepub.com/doi/pdf/10.2968/062005016) _Bulletin of the Atomic Scientists_ 62, no. 5 (2006): 69–71.
 
 Cortright, David, and Ron Pagnucco. "Limits to Transnationalism: The 1980s Freeze Campaign." In _Transnational Social Movements and Global Politics: Solidarity Beyond the State_. Edited by Jackie Smith, Charles Chatfield, and Ron Pugnucco. Syracuse University Press, 1997. ISBN: 9780815627432. \[Preview with [Google Books](http://books.google.com/books?id=IpF2RlHxQiQC&pg=PA159#v=onepage)\]
 
@@ -570,7 +570,7 @@ Keck, Margaret, and Kathryn Sikkink. Chapters 3 and 5 in _Activists beyond Borde
 
 Stephens, Beth. Chapters 1 and 4 in _Mobilizing for Human Rights: International Law in Domestic Politics_. Cambridge University Press, 2009. ISBN: 9780521712323.
 
-United Nations. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Realization of Economic, Social, and Cultural Rights: Globalization and Its Impact on the Full Enjoyment of Human Rights. " (PDF - 5.6MB)](http://www1.umn.edu/humanrts/demo/Globalization_Oloka-Onyango,Udagama.pdf) Progress report submitted by J. Oloka-Onyango and Deepika Udagama; E/CN.4/Sub.2/2000/13, June 15, 2000. 
+United Nations. "[The Realization of Economic, Social, and Cultural Rights: Globalization and Its Impact on the Full Enjoyment of Human Rights. " (PDF - 5.6MB)](http://www1.umn.edu/humanrts/demo/Globalization_Oloka-Onyango,Udagama.pdf) Progress report submitted by J. Oloka-Onyango and Deepika Udagama; E/CN.4/Sub.2/2000/13, June 15, 2000. 
 
 Shamir, Ronen. "Corporate Social Responsibility: A Case of Hegemony and Counter-Hegemony." In _Law and Globalization from Below: Towards a Cosmopolitan Legality_. Edited by Boaventura de Sousa Santos, and Cesar Rodriguez-Garavito. Cambridge University Press, 2005. ISBN: 9780521607353. \[Preview with [Google Books](http://books.google.com/books?id=KXXirMSkTXIC&printsec=frontcover&pg=PA92#v=onepage)\]
 
